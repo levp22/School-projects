@@ -1,7 +1,7 @@
 # School-projects
 Some past projects I have worked on
 
-I have included 3 of my major projects I worked on in high school
+I have included some of my major projects I worked on in high school
 
 1. My grade 11 project written in java which is a summative version of the optics unit taught in grade 10 physics.
 This was worked on by a friend and myself and we recieved a 100 on this project
@@ -11,3 +11,5 @@ The step motor would activate when a laser would hit a photoresister with a cert
 
 3. The code used for my grade 12 final project in which we built a prototype for a solenoid operated automatic dog bowl filler. 
 The code used a weight sensor to dictate when to open and close the solenoid a 100 was also recieved for this project.
+
+4. I included a video of an early covid lockdown mini project which was an Arduino "robot" that would automatically play the google offline dino game.
